@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Website Saya</title>
+</head>
+<body>
+
+    <h1>Hello World!</h1>
+    <p>Ini website pertama saya.</p>
+
+    <button onclick="alert('Halo!')">Klik Saya</button>
+
+</body>
+</html>
